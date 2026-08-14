@@ -117,7 +117,7 @@ st.markdown("""
 # -----------------------------------------------------------------------------
 st.markdown("""
 <div class="render-hero">
-    <div class="render-badge">$ cinevibe --agent-start | Developed by Adriana Karla</div>
+    <div class="render-badge">$ cinevibe --agent-start | Developed by Mariana Lima Correia Ferro</div>
     <h1 class="render-title">Your fastest path to film recommendations</h1>
     <p class="render-subtitle">Infraestrutura inteligente de curadoria audiovisual alimentada por LLM em tempo real para a nova geração.</p>
 </div>
