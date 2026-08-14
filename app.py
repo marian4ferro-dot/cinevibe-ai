@@ -113,11 +113,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# 3. CABEÇALHO ESTILO RENDER.COM
+# 3. CABEÇALHO COM SEU NOME NA BOX VERDE
 # -----------------------------------------------------------------------------
 st.markdown("""
 <div class="render-hero">
-    <div class="render-badge">$ cinevibe --agent-start</div>
+    <div class="render-badge">$ cinevibe --agent-start | Developed by Adriana Karla</div>
     <h1 class="render-title">Your fastest path to film recommendations</h1>
     <p class="render-subtitle">Infraestrutura inteligente de curadoria audiovisual alimentada por LLM em tempo real para a nova geração.</p>
 </div>
